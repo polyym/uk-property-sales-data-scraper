@@ -1,0 +1,7 @@
+# Proxy list, one proxy per line, format: ip:port:username:password
+# Copy this file to proxies.txt and fill in your proxy credentials.
+# Proxies are optional; the scraper works without them (browser-only mode).
+#
+# Example:
+# 123.45.67.89:8080:myuser:mypass
+# 98.76.54.32:3128:user2:pass2

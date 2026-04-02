@@ -1,0 +1,5 @@
+# Force LF line endings for shell scripts (prevents CRLF issues on Unix).
+*.sh text eol=lf
+
+# Force CRLF line endings for batch files (prevents issues on Windows).
+*.bat text eol=crlf

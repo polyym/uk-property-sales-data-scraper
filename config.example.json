@@ -1,0 +1,21 @@
+{
+    "site_url": "https://www.example.com",
+    "detail_page_url_prefix": "https://www.example.com/for-sale/details/",
+    "image_cdn_domain": "cdn.example.com",
+    "search_url": "https://www.example.com/for-sale/property/your-area/",
+    "location_name": "Your Area",
+    "xor_key": 0,
+    "min_price": 100000,
+    "excluded_listing_types": [
+        "land for sale",
+        "plot for sale",
+        "land to rent"
+    ],
+    "excluded_postcode_prefixes": [],
+    "price_breakpoints": [
+        100000, 200000, 300000, 400000, 500000, 600000, 700000,
+        800000, 900000, 1000000, 1250000, 1500000, 1750000,
+        2000000, 2500000, 3000000, 3500000, 4000000, 5000000,
+        6000000, 7000000, 8000000, 10000000, 15000000, ""
+    ]
+}
